@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Publisher.Api", "..\App.Publisher.Api\App.Publisher.Api.csproj", "{08C74AF9-3D67-4106-9206-89D37684D63D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Repositories", "App.Repositories\App.Repositories.csproj", "{CF689ADC-EBCB-4661-85D9-7D75BBF8E3A8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Models", "App.Models\App.Models.csproj", "{F92A3F14-E6EA-4875-B3F2-0FF50B0F3A40}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{08C74AF9-3D67-4106-9206-89D37684D63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{08C74AF9-3D67-4106-9206-89D37684D63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{08C74AF9-3D67-4106-9206-89D37684D63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{08C74AF9-3D67-4106-9206-89D37684D63D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CF689ADC-EBCB-4661-85D9-7D75BBF8E3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CF689ADC-EBCB-4661-85D9-7D75BBF8E3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF689ADC-EBCB-4661-85D9-7D75BBF8E3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
